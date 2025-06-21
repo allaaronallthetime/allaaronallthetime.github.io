@@ -35,6 +35,9 @@
 <header>
 <div class="header-meta">
 </div>
+<label for="themeSwitcher">Theme:</label>
+<select id="themeSwitcher"><option value="">Loading...</option></select>
+<script type="text/javascript">function findThemeLink(){const e=document.head.getElementsByTagName("link");for(let t=0;t<e.length;t++){const n=e[t];if(n.href&&n.href.includes("_theme."))return n}return null}function setStyle(e){themeLink&&(themeLink.href=e)}async function dropdownChange(e){let t=e.target.value;try{if(!(await fetch(t,{method:"HEAD"})).ok)throw new Error}catch(e){t=t.replace("theme.css","obsidian.css")}setStyle(t)}function populateDropdown(e){const t=document.getElementById("themeSwitcher");t?(t.innerHTML="",e.forEach((e=>{const n=document.createElement("option");n.value=`https://rawcdn.githack.com/${e.repo}/${e.branch||"HEAD"}/${e.legacy?"obsidian.css":"theme.css"}`,n.textContent=e.name,t.appendChild(n)})),t.removeEventListener("change",dropdownChange),t.addEventListener("change",dropdownChange)):console.error("Theme switcher could not find dropdown element to fill with themes. Should be at the top of theme-switcher.njk...")}async function fetchThemes(e,t){const n=await fetch(e);if(!n.ok)throw new Error("Failed to fetch "+e+" - Network response was not ok: "+n.statusText);const o=await n.json();o.sort(((e,t)=>e.name.localeCompare(t.name))),t(o)}const themeLink=findThemeLink();themeLink||console.error("Theme switcher could not find link-tag with theme file and will not work. Maybe something changed in the template? (theme-switcher.njk is looking for a link tag with a href value containing '_theme.')"),fetchThemes("https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-css-themes.json",populateDropdown)</script>
 </header>
 <p>Test text here.</p>
 </main>
