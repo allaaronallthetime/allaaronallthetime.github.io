@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organisations/gondola/","tags":["Organisation"]}
+{"dg-publish":true,"permalink":"/organisations/gondola/"}
 ---
 
 The Church of [[Divines/Gond\|Gond]] is the primary religious organisation devoted to the service and worship of the Wonderbringer, Gond.
