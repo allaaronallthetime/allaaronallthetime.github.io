@@ -2,81 +2,32 @@
 {"dg-publish":true,"permalink":"/xxx-phaedra/","title":"Phaedra","tags":["NPC","Red-Wizards","The-Six","Dead"]}
 ---
  
---- start-multi-column: Infobox
-```column-settings
-number of columns: 2  
-column size: [60%, 39%]
-border: off
-shadow: off
-```
+
+
+>[!infobox]
+>
+> ## Phaedra
+> 
+> ![phaedra-dead.png](/img/user/phaedra-dead.png)
+> 
+> | Type | Stat |
+> | --- | --- |
+> | Name | Phaedra |
+> | Other names | Princess Vemalura Duskryn |
+> | Race | Human |
+> | Class | Wizard|
+> | Associates | [[NPCs/James Earthsea\|James Earthsea]], [[Organisations/The Six\|The Six]] |
+> | Status | Dead |
+
+
 
 Phaedra was the apprentice of Thayan Zulkir [[NPCs/James Earthsea\|James Earthsea]].
 
 > [!contents] On this page:
-> - [[#Appearance]]
+> - [[#Appearance|Appearance]]
 > - [[#Encountering Phaedra Temple of Ao|Encountering Phaedra: Temple of Ao]]
-> - [[#Death and beyond in the Shadowfell]]
+> - [[#Death and beyond in the Shadowfell|Death and beyond in the Shadowfell]]
 
---- end-column ---
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <div class="infobox">
-    <div class="heading">
-      <h2>NOTE_TITLE</h2>
-    </div>
-    <div class="infobox-group">
-      <div class="infobox-data">
-	    <div class="infobox-datarow">
-          <p class="data-heading">Name</p>
-          <ul class="data-content">
-	          <li>BIO_NAME</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Other names</p>
-          <ul class="data-content">
-	          <li>Princess Vemalura Duskryn</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Race</p>
-          <ul class="data-content">
-	          <li>RACE</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Class</p>
-          <ul class="data-content">
-	          <li>CLASS</li>
-          </ul>
-        </div>
-        <div class="infobox-datarow">
-          <p class="data-heading">Associates</p>
-          <ul class="data-content">
-	          <li>ALIVE</li>
-          </ul>
-        <div class="infobox-datarow">
-          <p class="data-heading">Status</p>
-          <ul class="data-content">
-	          <li>Alive</li>
-          </ul>
-        </div>        
-          
-        </div>        
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-
---- end-multi-column
 
 #### Appearance
 Phaedra was a tall and severe-looking woman; she might have been beautiful, but a hollowness behind the eyes, a perpetual sneer, and a gaunt face similar to her master’s gave her a pronounced, ghoulish affect.
