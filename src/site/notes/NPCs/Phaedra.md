@@ -6,11 +6,11 @@ Phaedra was the apprentice of Thayan Zulkir [[NPCs/James Earthsea\|James Earthse
 
 She was a tall and severe-looking woman; she might have been beautiful, but a hollowness behind the eyes, a perpetual sneer, and a gaunt face similar to her master’s gave her a pronounced, ghoulish affect.
 
-Like other [[Red Wizards\|Red Wizards]], she completely lacked hair—even eyebrows and lashes—and what skin was visible outside her voluminous scarlet robes was covered in a twisting, shifting canvas of arcane tattoos.
+Like many other [[Red Wizards\|Red Wizards]], she completely lacked hair—even eyebrows and lashes—and what skin was visible outside her voluminous scarlet robes was covered in a twisting, shifting canvas of arcane tattoos.
 
 ### heading 
 
-The party only directly encountered Phaedra once, while infiltrating the false [[Locations/Tilverton/Temple of Ao\|Temple of Ao]] in the [[Tilver Valley\|Tilver Valley]]. They came upon her and Earthsea working with a bizarre techno-magical apparatus housing an unstable portal to the [[Locations/Shadowfell and extraplanar/Shadowfell\|Shadowfell]].
+The party only directly encountered Phaedra once, while infiltrating the false [[Locations/Tilverton/Temple of Ao\|Temple of Ao]] in the [[Tilver Valley\|Tilver Valley]]. They came upon her and Earthsea working with a bizarre techno-magical apparatus containing an unstable portal to the [[Locations/Shadowfell and extraplanar/Shadowfell\|Shadowfell]].
 
 Phaedra toyed with the party briefly before [[Player characters/Kadarr\|Kadarr]] drew the [[Black Blade\|Black Blade]], decapitating both Earthsea and [[8U8A\|8U8A]] in his madness. 
 
