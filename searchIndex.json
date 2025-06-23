@@ -1,7 +1,7 @@
 [
 {
 		"title": "Phaedra",
-		"date":"Mon Jun 23 2025 00:34:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 23 2025 00:34:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/np-cs/phaedra/",
 		"content": "",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Gondola",
-		"date":"Mon Jun 23 2025 00:34:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 23 2025 00:34:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/organisations/gondola/",
 		"content": "The Church of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Gond</a> is the primary religious organisation devoted to the service and worship of the Wonderbringer, Gond.\nBoth the organisation itself and its faithful are colloquially referred to as the 'Gonola'.",
 		"tags": [ "note"]
@@ -17,23 +17,15 @@
 
 {
 		"title": "Shadow over the Moonsea",
-		"date":"Mon Jun 23 2025 00:34:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 23 2025 00:34:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Test text here.",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
-		"title": "Test note 1",
-		"date":"Mon Jun 23 2025 00:34:01 GMT+0000 (Coordinated Universal Time)",
-		"url":"/test-folder-1/test-note-1/",
-		"content": "",
-		"tags": [ "note"]
-},
-
-{
 		"title": "Test subnote 2",
-		"date":"Mon Jun 23 2025 00:34:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 23 2025 00:34:23 GMT+0000 (Coordinated Universal Time)",
 		"url":"/test-folder-2/test-subfolder-2/test-subnote-2/",
 		"content": "",
 		"tags": [ "note"]
