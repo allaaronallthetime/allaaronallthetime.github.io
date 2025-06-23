@@ -46,4 +46,4 @@ Phaedra’s remains were later found in the [[Locations/Shadowfell and extraplan
 
 While trying to *speak with dead*, [[Beldrin\|Beldrin]] set off a devious countermeasure that had survived even her death: her skull burst out of her body, and the party barely had time to dive for cover before it exploded.
 
-Descending into the labs beneath the ruined abbey, they discovered that she had brutally tortured both [[NPCs/Arctus Mursk\|Arctus Mursk]] and the Gondola engineer [[NPCs/Donal Maan\|Donal Maan]], and killed Maan’s captive family.
+Descending into the labs beneath the ruined abbey, they discovered that she had brutally tortured both [[NPCs/Arctus Mursk\|Arctus Mursk]] and the Gondola engineer [[NPCs/Donal Maan\|Donal Maan]], and killed Maan’s captive family. 
