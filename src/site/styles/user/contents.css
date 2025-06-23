@@ -1,0 +1,4 @@
+.callout[data-callout="contents"] {
+    --callout-color: 124, 77, 255;
+    --callout-icon: lucide-list;
+}
