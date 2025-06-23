@@ -1,5 +1,7 @@
-.sidebar {
-    .graph {
-        height: 80%;
+body {
+    .sidebar {
+        .graph {
+            height: 80%;
+        }
     }
 }
