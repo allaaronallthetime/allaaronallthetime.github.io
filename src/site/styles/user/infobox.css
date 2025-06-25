@@ -29,8 +29,8 @@ settings:
 
 body.infobox-enabled,
  {
-    --infobox-font-size: var(--font-smaller);
-    --infobox-gap: 16px;
+    --infobox-font-size: var(--font-smaller) !important;
+    --infobox-gap: 16px !important;
     --infobox-width: 256px !important;
 }
 
@@ -187,11 +187,11 @@ body.infobox-enabled:not(.is-mobile) .markdown-preview-sizer > div:has([data-cal
 body.infobox-enabled.is-tablet .markdown-preview-sizer > div:has([data-callout="infobox"]),
 :not(.is-mobile) .markdown-preview-sizer > div:has([data-callout="infobox"]),
 .is-tablet .markdown-preview-sizer > div:has([data-callout="infobox"]) {
-    margin-bottom: var(--file-margins);
+    margin-bottom: var(--file-margins) !important;
     position: absolute !important;
     right: calc(-1 * (var(--infobox-width) + var(--infobox-gap))) !important;
-    top: 0;
-    width: var(--infobox-width);
+    top: 0 !important;
+    width: var(--infobox-width) !important;
 }
 
 body.infobox-enabled:not(.is-mobile) .show-inline-title .markdown-preview-sizer > div:has([data-callout="infobox"]),
