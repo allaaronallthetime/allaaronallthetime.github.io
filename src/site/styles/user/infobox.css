@@ -189,7 +189,7 @@ body:not(.css-settings-manager):not(.is-mobile) .markdown-preview-sizer > div:ha
 body:not(.css-settings-manager).is-tablet .markdown-preview-sizer > div:has([data-callout="infobox"]) {
     margin-bottom: var(--file-margins);
     position: absolute !important;
-    right: calc(-1 * (var(--infobox-width) + var(--infobox-gap)));
+    right: calc(-1 * (var(--infobox-width) + var(--infobox-gap))) !important;
     top: 0;
     width: var(--infobox-width);
 }
