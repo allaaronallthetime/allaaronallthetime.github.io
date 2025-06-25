@@ -39,7 +39,7 @@ body.infobox-enabled .cm-sizer:has([data-callout="infobox"]),
 body.infobox-enabled .markdown-preview-sizer:has([data-callout="infobox"]),
  .markdown-preview-sizer:has([data-callout="infobox"]) {
     --callout-padding: var(--size-4-2);
-    --file-line-width: calc(700px + var(--infobox-width));
+    --file-line-width: calc(700px + var(--infobox-width)) !important;
     --list-spacing: 0.125em;
     --table-header-size: 1em;
 }
@@ -175,7 +175,7 @@ body.infobox-enabled:not(.is-mobile) .markdown-preview-sizer:has([data-callout="
 body.infobox-enabled.is-tablet .markdown-preview-sizer:has([data-callout="infobox"]) > div:not(.mod-header),
 :not(.is-mobile) .markdown-preview-sizer:has([data-callout="infobox"]) > div:not(.mod-header),
 .is-tablet .markdown-preview-sizer:has([data-callout="infobox"]) > div:not(.mod-header) {
-    margin-right: calc(var(--infobox-width) + var(--infobox-gap));
+    margin-right: calc(var(--infobox-width) + var(--infobox-gap)) !important;
     position: relative;
 }
 
